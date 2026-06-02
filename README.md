@@ -72,19 +72,17 @@ Personalized marketing campaigns
 Customer retention strategies
 Product recommendations
 Revenue growth opportunities
-
 Sample Visualizations
-Age Distribution
+
 <img width="640" height="480" alt="Figure_1" src="https://github.com/user-attachments/assets/c91fd519-544a-46ba-9641-e50eef572291" />
 
-Spending Score Distribution
+
 <img width="640" height="480" alt="Figure_1" src="https://github.com/user-attachments/assets/0d4682f1-a72a-491c-b2df-9ac6e6212cc1" />
 
-Elbow Method Curve
 
 <img width="640" height="480" alt="Figure_1" src="https://github.com/user-attachments/assets/aa570561-04b6-4b04-98b9-7d9f7cceaf5a" />
 
-Customer Segmentation Scatter Plot
+
 <img width="800" height="600" alt="Figure_1" src="https://github.com/user-attachments/assets/352bdc47-bce3-49b3-a36f-8b08a1facb3a" />
 
 Skills Demonstrated
